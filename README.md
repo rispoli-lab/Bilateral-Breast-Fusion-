@@ -1,5 +1,6 @@
 # Bilateral-Breast-Fusion-
-This code uses affine transformation and the level-set method to fuse breast models with whole body human models.
+This code uses affine transformation and the level-set method to create modified bilateral breast models that can be seamlessly fused with whole body human models. The integrated models can be used for the study of Specific Absorption Rate (SAR) and thermal analysis in radio-frequency(RF) exposure. 
+
 Example:
 To fuse breast models download from http://uwcem.ece.wisc.edu/phantomRepository.html with
 Hanako female model download from http://emc.nict.go.jp/bio/data/index_e.html.
