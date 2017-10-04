@@ -1,5 +1,5 @@
 # Bilateral-Breast-Fusion-
-This code use affine transformation and the level-set method to fuse breast models with whole body human models.
+This code uses affine transformation and the level-set method to fuse breast models with whole body human models.
 Example:
 To fuse breast models download from http://uwcem.ece.wisc.edu/phantomRepository.html with
 Hanako female model download from http://emc.nict.go.jp/bio/data/index_e.html.
