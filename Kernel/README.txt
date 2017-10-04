@@ -7,4 +7,4 @@ and computational fluid dynamics (CFD), and it is of independent
 interest in areas of optimal control, differential games, robotics,
 financial mathematics, continuous reachability, etc.
 
-This Toolbox is a modified version of Ian M. Mitchell's ToolboxLS, his original license is available in folder "Original Work LISENCE"
+This Toolbox is a modified version of Ian M. Mitchell's ToolboxLS, his original license is available in folder "Original work LISENCE"
