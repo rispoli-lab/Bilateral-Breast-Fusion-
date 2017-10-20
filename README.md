@@ -9,3 +9,5 @@ Hanako female model download from http://emc.nict.go.jp/bio/data/index_e.html.
 3.  Change the saving path at the last row in  "LevelsetL.m" or  "LevelsetR.m" to save the .vox file to the desired folder path.
 4.  Run "LevelsetL.m" on "LmBreast", and "LevelsetR.m" on "RmBreast".
 5.  Modified bilateral breast models in .vox format are generated.
+
+Note: the .vox format models can be imported into Xfdtd (Remcom, State College, PA USA). In addition, these models can also be saved in .raw files and be imported into Sim4Life (ZMT, Switzerland). The 'Additional' folder contains MATLAB functions to facilitate conversions between .raw files and .vox files. 
