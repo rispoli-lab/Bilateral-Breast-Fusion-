@@ -20,6 +20,6 @@ for x = 1:size(inBreast,3)
 
     end
 end
- CropPect = inPectoralMuscle(offsetx:offsetx+size(inBreast,3)-1,:,offsetz:offsetz+size(inBreast,2)-1) ;
+CropPect = inPectoralMuscle(offsetx:offsetx+size(inBreast,3)-1,:,offsetz:offsetz+size(inBreast,2)-1) ;
 Fat = Fatin(offsetx:offsetx+size(inBreast,3)-1,:,offsetz:offsetz+size(inBreast,2)-1);
 end

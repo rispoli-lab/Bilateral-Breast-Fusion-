@@ -32,13 +32,13 @@ inputM = reshape(inputData,[File1.s1,File1.s2,File1.s3]); % reshape vector into 
 %% Open the pectoral muscle of human model
 % the basements of breast are saved into Rvoxel and Lvoxel. 
 % addpath('E:\Remcom\projects\Xin\MATLAB\MAT files');
-load('C:\Users\xin\Documents\Breast Morph\version 5\MATLAB\Scripts Version4\Ella0p5_uint8.mat'); % load Ella phantom
+Ella = load('C:\Users\xin\Documents\Breast Morph\version 5\MATLAB\Scripts Version4\Ella0p5.mat'); % load Ella phantom
 % Imported Ella model in matlab dimensions(left_arm to right_arm, back to front, head to toe)
-s22 = 310; % x  basement dimensions    s22 is the max s2, s33 is the max of s3
-s33 = 400; % z % 
+% s22 = 310; % x  basement dimensions    s22 is the max s2, s33 is the max of s3
+% s33 = 400; % z % 
 
-Rvoxel= Ella(670-floor(s22/2):670+floor(s22/2)+mod(s22,2)-1 , : , 945-floor(s33/2):945+floor(s33/2)+mod(s33,2)-1); % import body phamton first, format(x,y,z)
-Lvoxel= Ella(386-floor(s22/2):386+floor(s22/2)+mod(s22,2)-1 , : , 945-floor(s33/2):945+floor(s33/2)+mod(s33,2)-1); % x: from left hand to right hand.y: from back to front. z: from head to toe.  
+Rvoxel= Ella.A(670-floor(s22/2):670+floor(s22/2)+mod(s22,2)-1 , : , 945-floor(s33/2):945+floor(s33/2)+mod(s33,2)-1); % import body phamton first, format(x,y,z)
+Lvoxel= Ella.A(386-floor(s22/2):386+floor(s22/2)+mod(s22,2)-1 , : , 945-floor(s33/2):945+floor(s33/2)+mod(s33,2)-1); % x: from left hand to right hand.y: from back to front. z: from head to toe.  
 
 
 
