@@ -16,6 +16,8 @@ C2 = textscan(fID2,'%f');
 fclose(fID2);
 inputData = cell2mat(C2);
 inputM = reshape(inputData,[s1,s2,s3]); % reshape vector into 3d matrix. 
+
+
 %% resize the breast
 % of original size using nearst interpolation
 % desired output dimensions.
