@@ -14,9 +14,9 @@ Hanako female model download from http://emc.nict.go.jp/bio/data/index_e.html.
 3.  Change the saving path at the last row in  "LevelsetL.m" or  "LevelsetR.m" to save the .vox file to the desired folder path.
 
 
-![alt text](https://purdue0-my.sharepoint.com/personal/li2543_purdue_edu/_layouts/15/guestaccess.aspx?docid=187ded46ea43241ed9d984f378ecd536b&authkey=AfRDgvFTTQeOO23o7rRflVQ&e=b19b591ff59546e68569f70a067c9eab)
-![alt text](https://purdue0-my.sharepoint.com/personal/li2543_purdue_edu/_layouts/15/guestaccess.aspx?docid=1e3b2df734412482fb0e45cfe4a69dfac&authkey=AULNV_oFBOBH4dGaaQzeqJY&e=9bb97c4f45f04579918c247bf2182e92)
-![alt text](https://purdue0-my.sharepoint.com/personal/li2543_purdue_edu/_layouts/15/guestaccess.aspx?docid=1327c47542023418e94a2b0afa0187e23&authkey=AUHFePMOqA76NBcgyDVOeS8&e=dcc03b2805ec45988b099828bbbdd846) 
+![](https://purdue0-my.sharepoint.com/personal/li2543_purdue_edu/_layouts/15/guestaccess.aspx?docid=187ded46ea43241ed9d984f378ecd536b&authkey=AfRDgvFTTQeOO23o7rRflVQ&e=b19b591ff59546e68569f70a067c9eab)
+![](https://purdue0-my.sharepoint.com/personal/li2543_purdue_edu/_layouts/15/guestaccess.aspx?docid=1e3b2df734412482fb0e45cfe4a69dfac&authkey=AULNV_oFBOBH4dGaaQzeqJY&e=9bb97c4f45f04579918c247bf2182e92)
+![](https://purdue0-my.sharepoint.com/personal/li2543_purdue_edu/_layouts/15/guestaccess.aspx?docid=1327c47542023418e94a2b0afa0187e23&authkey=AUHFePMOqA76NBcgyDVOeS8&e=dcc03b2805ec45988b099828bbbdd846) 
 
 4.  Run "LevelsetL.m" on "LmBreast", and "LevelsetR.m" on "RmBreast".
 
