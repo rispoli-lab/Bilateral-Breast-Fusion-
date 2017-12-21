@@ -13,12 +13,14 @@ Hanako female model download from http://emc.nict.go.jp/bio/data/index_e.html.
  
 3.  Change the saving path at the last row in  "LevelsetL.m" or  "LevelsetR.m" to save the .vox file to the desired folder path.
 
+![](https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/joint%20with%20nun-atural%20curvature.png)
+![](https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/joint%20with%20natural%20curvature.png)
 
-![](https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/joint with natural curvature.png)
+![](https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Before_level_set%20(Axial).png) 
+![](https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Before_level_set%20(Saggital).png) 
 
-![](https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Before_level_set%202.tif)
-
-![](https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/before_levelset2.tif) 
+![](https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/After_level_set%20(Axial).png) 
+![](https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/After_level_set%20(Saggital).png) 
 
 4.  Run "LevelsetL.m" on "LmBreast", and "LevelsetR.m" on "RmBreast".
 
