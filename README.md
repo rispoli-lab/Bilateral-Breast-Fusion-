@@ -24,7 +24,7 @@ Download the package and upacked to desired folder.Add-to-Path all functions in 
 The pectoral muscle and bone boundary are first smoothed by Morphological filtering
 Before morphological filtering             |  After morphological filtering
 :-------------------------:|:-------------------------:
-<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Volume_Viewer_unsmoothed2.png" width= "60%" height = "60%">|<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Volume_Viewer_soomthed2.png" width= "60%" height = "60%">
+<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Volume_Viewer_unsmoothed2.png" width= "50%" height = "50%"> | <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Volume_Viewer_soomthed2.png" width= "50%" height = "50%">
 
 Run "CreatBreastPectHanako.m" to generate modified left and right breast data "RmBreast" and "LmBreast".
 
