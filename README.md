@@ -30,6 +30,10 @@ Run "LevelsetL.m" on "LmBreast", and "LevelsetR.m" on "RmBreast".
 
 ![](https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/joint2.png)
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Before_level_set%20(Axial).png){:height="50%" width="50%"}  |  ![](https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/After_level_set%20(Axial).png){:height="50%" width="50%"}
+
 ![](https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Before_level_set%20(Axial).png) 
 ![](https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Before_level_set%20(Saggital).png) 
 
