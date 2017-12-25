@@ -32,7 +32,7 @@ Run "LevelsetL.m" on "LmBreast", and "LevelsetR.m" on "RmBreast".
 
 Before Level_set             |  After Level_set
 :-------------------------:|:-------------------------:
-![](https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Before_level_set%20(Axial).png ){ width= 50%}  |  ![](https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/After_level_set%20(Axial).png){width= 50%}
+<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Before_level_set%20(Axial).png" width= "50%"> | <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/After_level_set%20(Axial).png" width= "50%">
 
 ![](https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Before_level_set%20(Axial).png) 
 ![](https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Before_level_set%20(Saggital).png) 
