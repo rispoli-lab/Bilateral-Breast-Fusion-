@@ -34,7 +34,7 @@ Change the saving path at the last row in  "LevelsetL.m" or  "LevelsetR.m" to sa
 Run "LevelsetL.m" on "LmBreast", and "LevelsetR.m" on "RmBreast".
 
 
-![](https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/joint2.png)
+![test image name](https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/joint2.png)
 *test image caption*
 
 Before Level_set             |  After Level_set
