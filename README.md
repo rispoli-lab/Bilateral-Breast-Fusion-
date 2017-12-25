@@ -35,7 +35,7 @@ Run "LevelsetL.m" on "LmBreast", and "LevelsetR.m" on "RmBreast".
 
 
 ![test image name](https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/joint2.png)
-*test image caption*
+
 
 Before Level_set             |  After Level_set
 :-------------------------:|:-------------------------:
