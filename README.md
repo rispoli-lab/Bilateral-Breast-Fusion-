@@ -47,17 +47,10 @@ Before Level_set             |  After Level_set
 Before Level_set             |  After Level_set
 :-------------------------:|:-------------------------:
 <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Before_level_set%20(Axial).png" width= "60%" height = "60%">  | <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/After_level_set%20(Axial).png" width= "60%" height = "60%">
+*test1*|*test2*
 <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Before_level_set%20(Saggital).png" width= "60%" height = "60%"> | <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/After_level_set%20(Saggital).png" width= "60%" height = "60%">
+*test3*|*test4*
 
-<table style="width:100%">
-  <tr>
-    <td><img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Before_level_set%20(Axial).png" width= "60%" height = "60%"></td>
-    <td><img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/After_level_set%20(Axial).png" width= "60%" height = "60%"></td>
-  </tr>
-  <tr>
-    <td>No padding, no strides</td>
-    <td>Arbitrary padding, no strides</td>
-  </tr>
 
 
 ## 5. Export data.
