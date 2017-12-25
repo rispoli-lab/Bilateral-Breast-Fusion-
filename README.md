@@ -45,16 +45,12 @@ Before Level_set             |  After Level_set
 
 <table style="width:100%">
   <tr>
-    <td><img src="gif/no_padding_no_strides.gif"></td>
-    <td><img src="gif/arbitrary_padding_no_strides.gif"></td>
-    <td><img src="gif/same_padding_no_strides.gif"></td>
-    <td><img src="gif/full_padding_no_strides.gif"></td>
+    <td><img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Before_level_set%20(Axial).png" width= "60%" height = "60%"></td>
+    <td><img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/After_level_set%20(Axial).png" width= "60%" height = "60%"></td>
   </tr>
   <tr>
     <td>No padding, no strides</td>
     <td>Arbitrary padding, no strides</td>
-    <td>Half padding, no strides</td>
-    <td>Full padding, no strides</td>
   </tr>
 
 
