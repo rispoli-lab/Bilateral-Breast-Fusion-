@@ -10,7 +10,7 @@ Human models download from:
 Hanako female model download from http://emc.nict.go.jp/bio/data/index_e.html.
 Ella female model download from
 
-1.  Add-to-Path all functions in folders "Morph functions" and "Kernel".
+**1**.  Add-to-Path all functions in folders "Morph functions" and "Kernel".
 
 2.  Run "CreatBreastPectHanako.m" to generate modified left and right breast data "RmBreast" and "LmBreast".
  Users can define rotational angles 
