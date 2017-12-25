@@ -18,10 +18,11 @@ Download the package and upacked to desired folder.Add-to-Path all functions in 
  Users can define rotational angles 
  Ratio of breast defined
  Origin locations of breast model and human models
- The origion locations will be helpful for positioning the human models and breast models in EM simulation softeare
+ The origion locations will be helpful for positioning the human models and breast models in EM simulation softeare.
  
 ## 3. Breast extrution to pectoral muscle.
 The pectoral muscle and bone boundary are first smoothed by Morphological filtering
+
 Before morphological filtering    |  After morphological filtering
 :-------------------------:|:-------------------------:
 <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Volume_Viewer_unsmoothed2.png" width= "30%" height = "30%"> | <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Volume_Viewer_soomthed2.png" width= "30%" height = "30%">
