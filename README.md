@@ -25,7 +25,7 @@ The pectoral muscle and bone boundary are first smoothed by Morphological filter
 
 Before morphological filtering    |  After morphological filtering
 :-------------------------:|:-------------------------:
-<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Chestdata2-2.PNG" width= "30%" height = "30%"> | <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/ClosePec2-2.PNG" width= "30%" height = "30%">
+<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Chestdata2-2.PNG" width= "60%" height = "60%"> | <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/ClosePec2-2.PNG" width= "60%" height = "60%">
 
 Run "CreatBreastPectHanako.m" to generate modified left and right breast data "RmBreast" and "LmBreast".
 
