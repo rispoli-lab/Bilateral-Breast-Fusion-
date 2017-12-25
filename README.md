@@ -35,12 +35,5 @@ Before Level_set             |  After Level_set
 <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Before_level_set%20(Axial).png" width= "100%" height = "100%"> | <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/After_level_set%20(Axial).png" width= "100%" height = "100%">
 <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Before_level_set%20(Saggital).png" width= "100%" height = "80%"> | <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/After_level_set%20(Saggital).png" width= "100%" height = "80%">
 
-![](https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Before_level_set%20(Axial).png) 
-![](https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Before_level_set%20(Saggital).png) 
-
-![](https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/After_level_set%20(Axial).png) 
-![](https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/After_level_set%20(Saggital).png) 
-
-
 ## 5. Export data.
 Modified bilateral breast models in .vox format are generatedm, and assocaited .mmf files are also generated. Users can also generate .raw fromate files. (Note: the .vox format models incorporated with .mmf files can be imported into Xfdtd (Remcom, State College, PA USA). In addition, these models can also be saved in .raw files and be imported into Sim4Life (ZMT, Switzerland). The 'Additional' folder contains MATLAB functions to facilitate conversions between .raw files and .vox files)
