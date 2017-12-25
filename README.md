@@ -22,6 +22,7 @@ Download the package and upacked to desired folder.Add-to-Path all functions in 
  
 ## 3. Breast extrution to pectoral muscle.
 The pectoral muscle and bone boundary are first smoothed by Morphological filtering
+Before morphological filtering             |  After morphological filtering
 :-------------------------:|:-------------------------:
 <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Volume_Viewer_unsmoothed2.png" >|<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Volume_Viewer_soomthed2.png">
 
