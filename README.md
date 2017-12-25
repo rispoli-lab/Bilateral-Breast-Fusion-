@@ -23,7 +23,7 @@ Download the package and upacked to desired folder.Add-to-Path all functions in 
 ## 3. Breast extrution to pectoral muscle.
 The pectoral muscle and bone boundary are first smoothed by Morphological filtering
 
-<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Volume_Viewer_unsmoothed2.png">|<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Volume_Viewer_unsmoothed.png">
+<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Volume_Viewer_unsmoothed2.png" alt = "{{"My cat, Robert Downey Jr."}}">|<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Volume_Viewer_soomthed2.png">
 
 Run "CreatBreastPectHanako.m" to generate modified left and right breast data "RmBreast" and "LmBreast".
 
