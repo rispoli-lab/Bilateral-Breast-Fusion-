@@ -22,13 +22,9 @@ Download the package and upacked to desired folder.Add-to-Path all functions in 
  
 ## 3. Breast extrution to pectoral muscle.
 The pectoral muscle and bone boundary are first smoothed by Morphological filtering
-The overall architecture of the system is show in <<system_overview>>.
-
-[[system_overview]]
-.System Overview
-image::https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Volume_Viewer_unsmoothed2.png[]
 
 <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Volume_Viewer_unsmoothed2.png">|<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Volume_Viewer_unsmoothed.png">
+
 Run "CreatBreastPectHanako.m" to generate modified left and right breast data "RmBreast" and "LmBreast".
 
 ## 4. Apply level-set method to smooth joint.
