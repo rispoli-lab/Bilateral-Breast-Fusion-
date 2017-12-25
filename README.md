@@ -1,6 +1,6 @@
 # Bilateral-Breast-Fusion- User manual
 
-This code uses affine transformation and the level-set method to create modified bilateral breast models that can be seamlessly fused with whole body human models. The integrated models can be used for the study of Specific Absorption Rate (SAR) and thermal analysis in radio-frequency(RF) exposure. 
+This code uses mirroring, one-dimensional extrusion and the level-set method to create modified bilateral breast models from a single breast model. One-dimensional extrusion method mimic of supine postion breat models, because gravity makes breast traight down. The bilateral breast models and whole body human models are seemlessley fused by the mean-curvature driven level set function. The integrated models can be used for the study of Specific Absorption Rate (SAR) and thermal analysis in radio-frequency(RF) exposure. The following methology have potentials to be applied on any patient-based whole-body models and breast models.
 
 ### Example models:
 #### Breast models:
