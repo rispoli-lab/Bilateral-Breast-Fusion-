@@ -2,12 +2,12 @@
 
 This code uses affine transformation and the level-set method to create modified bilateral breast models that can be seamlessly fused with whole body human models. The integrated models can be used for the study of Specific Absorption Rate (SAR) and thermal analysis in radio-frequency(RF) exposure. 
 
-Example models:
-Breast models download from:
+### Example models:
+#### Breast models:
 UWM breast models http://uwcem.ece.wisc.edu/phantomRepository.html with
 DUKE U breast models 
 
-Human models download from: 
+#### Human models: 
 Hanako female model download from http://emc.nict.go.jp/bio/data/index_e.html.
 Ella female model download from
 
