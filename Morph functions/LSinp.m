@@ -1,4 +1,4 @@
-function [ data, g, data0 ] = LSinp(accuracy,datain,d)
+function [ data, g, data0 ] = LSinp(accuracy,datain,d,step)
 % dumbbell1: recreate figure 14.2 from Sethian
 %
 %   [ data, g, data0 ] = dumbbell1(accuracy)
@@ -46,7 +46,7 @@ function [ data, g, data0 ] = LSinp(accuracy,datain,d)
 %---------------------------------------------------------------------------
 % Make sure we can see the kernel m-files.
 %run('../addPathToKernel');
-run('addPathToKernel');
+% run('addPathToKernel');
 
 %---------------------------------------------------------------------------
 % Default values.
@@ -80,31 +80,60 @@ pauseAfterPlot = 0;
 
 %---------------------------------------------------------------------------
 % Create the grid.
+% g.dim = 3;
+% if mod(size(datain,1),2) ==0
+%     xmin = -0.01*size(datain,1);
+%     xmax = 0.01*(size(datain,1)-2);
+% else
+%     xmin = -0.01*(size(datain,1)-1);
+%     xmax = 0.01*(size(datain,1)-1);
+% end
+% if mod(size(datain,2),2) ==0
+%     ymin = -0.01*size(datain,2);
+%     ymax = 0.01*(size(datain,2)-2);
+% else
+%     ymin = -0.01*(size(datain,2)-1);
+%     ymax = 0.01*(size(datain,2)-1);
+% end
+% if mod(size(datain,3),2) ==0
+%     zmin = -0.01*size(datain,3);
+%     zmax = 0.01*(size(datain,3)-2);
+% else
+%     zmin = -0.01*(size(datain,3)-1);
+%     zmax = 0.01*(size(datain,3)-1);
+% end
+% g.min =[xmin;ymin;zmin];%[-1.70;-3.52;-3.06 ];%[ -1.0; -0.5; -0.5 ]; % corresponding to size (171,352,307)
+% g.max = [xmax;ymax;zmax];%[1.70; 3.50; 3.06];%[ +1.0; +0.5; +0.5 ];
+% g.dx = 1 / 50;
+% g.bdry = @addGhostExtrapolate;
+% g = processGrid(g);
+
 g.dim = 3;
+% step = 1/50;
+g.dx = step*2;
 if mod(size(datain,1),2) ==0
-    xmin = -0.01*size(datain,1);
-    xmax = 0.01*(size(datain,1)-2);
+    xmin = -step*size(datain,1);
+    xmax = step*(size(datain,1)-2);
 else
-    xmin = -0.01*(size(datain,1)-1);
-    xmax = 0.01*(size(datain,1)-1);
+    xmin = -step*(size(datain,1)-1);
+    xmax = step*(size(datain,1)-1);
 end
 if mod(size(datain,2),2) ==0
-    ymin = -0.01*size(datain,2);
-    ymax = 0.01*(size(datain,2)-2);
+    ymin = -step*size(datain,2);
+    ymax = step*(size(datain,2)-2);
 else
-    ymin = -0.01*(size(datain,2)-1);
-    ymax = 0.01*(size(datain,2)-1);
+    ymin = -step*(size(datain,2)-1);
+    ymax = step*(size(datain,2)-1);
 end
 if mod(size(datain,3),2) ==0
-    zmin = -0.01*size(datain,3);
-    zmax = 0.01*(size(datain,3)-2);
+    zmin = -step*size(datain,3);
+    zmax = step*(size(datain,3)-2);
 else
-    zmin = -0.01*(size(datain,3)-1);
-    zmax = 0.01*(size(datain,3)-1);
+    zmin = -step*(size(datain,3)-1);
+    zmax = step*(size(datain,3)-1);
 end
 g.min =[xmin;ymin;zmin];%[-1.70;-3.52;-3.06 ];%[ -1.0; -0.5; -0.5 ]; % corresponding to size (171,352,307)
 g.max = [xmax;ymax;zmax];%[1.70; 3.50; 3.06];%[ +1.0; +0.5; +0.5 ];
-g.dx = 1 / 50;
 g.bdry = @addGhostExtrapolate;
 g = processGrid(g);
 
