@@ -33,6 +33,8 @@ Before morphological filtering    |  After morphological filtering
 
 
 Run "CreatBreastPectHanako.m" to generate modified left and right breast data "RmBreast" and "LmBreast".Results after execution of "CreatBreastPectHanako.m":
+
+
 <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm1Combined_axial.png">
 
 ## 4. Apply level-set method to smooth joint.
