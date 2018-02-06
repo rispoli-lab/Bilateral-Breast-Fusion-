@@ -15,11 +15,13 @@ This code uses mirroring, one-dimensional extrusion and the level-set method to 
 Download the package and upacked to desired folder.Add-to-Path all functions in folders "Morph functions" and "Kernel".
 
 ## 2. Pre-locate breast position.
-|*Ella Model*|
+|*Ella model breast model and breast coil prelocation*|
+|:-:|
 |<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm2_wholebody_Ella.png" >| 
-|*Hanako Model*|
+|*Hanako Model breast model and breast coil prelocation*|
+|:-:|
 |<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm2_wholebody_Hanako.png" >|
- The cyan color outlined the muscle porjection of the human models, and serves as a location landmark for breast model positionning. Users can define rotational angles, and breast size for the breast model.The two circular rings represent the breast coils.Best ratio of breast scalling depends on the ratio of breast model voxels size to human model voxel size.Origin locations of human models(white dot at the left bottom corner), and breast models cordinates (white dot in) relative to the human models.The origion locations will be helpful for positioning the human models and breast models in EM simulation softeare.
+The cyan color line outlined the muscle porjection of the human models, and serves as a location landmark for breast models positionning. The two circular rings (black) represent the breast coils.The pink and right circles represent projection size of the breast model. The white semi-circle represent the hight effect of the breast model. Users can define rotational angles, and breast size for the breast model.Best ratio of breast scalling depends on the ratio of breast model voxels size to human model voxel size.Origin locations of human models(white dot at the left bottom corner), bilateral breast models cordinates (yellow dots),pectoral muscle cordinates(white dots near the breasts) relative to the human models will be the saved.The origion locations will be helpful for positioning the human models and breast models in EM simulation softeare.
  
 ## 3. Breast extrution to pectoral muscle.
 The pectoral muscle and bone boundary are first smoothed by Morphological filtering
