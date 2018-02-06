@@ -15,6 +15,7 @@ This code uses mirroring, one-dimensional extrusion and the level-set method to 
 Download the package and upacked to desired folder.Add-to-Path all functions in folders "Morph functions" and "Kernel".
 
 ## 2. Pre-locate breast position.
+
 |*Ella model breast model and breast coil prelocation*|
 |:-:|
 |<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm2_wholebody_Ella.png" >| 
@@ -22,7 +23,6 @@ Download the package and upacked to desired folder.Add-to-Path all functions in 
 |:-:|
 |<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm2_wholebody_Hanako.png" >|
 
- 
 ## 3. Breast extrution to pectoral muscle.
 The pectoral muscle and bone boundary are first smoothed by Morphological filtering
 
