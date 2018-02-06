@@ -48,8 +48,8 @@ Change the saving path at the last row in  "LevelsetL.m" or  "LevelsetR.m" to sa
 Run "LevelsetL.m" on "LmBreast", and "LevelsetR.m" on "RmBreast".
 
 
-:-------------------------:|:-------------------------:
-<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/joint%20with%20nun-atural%20curvature.png">|
+:-:|:-:
+<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/joint%20with%20nun-atural%20curvature.png"> |
 <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/joint%20with%20natural%20curvature.png"> 
 
 
