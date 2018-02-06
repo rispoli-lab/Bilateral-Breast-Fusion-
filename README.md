@@ -16,12 +16,12 @@ Download the package and upacked to desired folder.Add-to-Path all functions in 
 
 ## 2. Pre-locate breast position.
 
-|Ella model breast model and breast coil prelocation|
+|Ella model breast model and breast coil pre-locationing|
 |:-:|
 |<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm2_wholebody_Ella.png" >| 
 
 
-|Hanako model breast model and breast coil prelocation|
+|Hanako model breast model and breast coil prelocationing|
 |:-:|
 |<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm2_wholebody_Hanako.png" >| 
 
