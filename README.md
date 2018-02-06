@@ -20,6 +20,9 @@ Download the package and upacked to desired folder.Add-to-Path all functions in 
 |:-:|
 |<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm2_wholebody_Ella.png" >| 
 |*Ella model breast model and breast coil prelocation*|
+|:-:|
+|<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm2_wholebody_Ella.png" >| 
+|*Ella model breast model and breast coil prelocation*|
 |<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm2_wholebody_Hanako.png" >|
 
 ## 3. Breast extrution to pectoral muscle.
