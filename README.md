@@ -15,11 +15,10 @@ This code uses mirroring, one-dimensional extrusion and the level-set method to 
 Download the package and upacked to desired folder.Add-to-Path all functions in folders "Morph functions" and "Kernel".
 
 ## 2. Pre-locate breast position.
-|<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm2_wholebody_Ella.png" description="My cat, Robert Downey Jr." width= "80%" height = "80%">|
-|:--:| 
-|*Hanako model*|
-:-------------------------:
-<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm2_wholebody_Hanako.png" width= "80%" height = "80%">
+|<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm2_wholebody_Ella.png" " width= "80%" height = "80%">|
+|*Hanako Model*|
+|<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm2_wholebody_Hanako.png" width= "80%" height = "80%">|
+|*Ella Model*|
  Users can define rotational angles, and breast size.
  Best ratio of breast scalling depends on the ratio of breast model voxels size to human model voxel size.
  Origin locations of human models, and breast models and breast coil cordinates relative to the human models. 
