@@ -1,6 +1,6 @@
 # Bilateral-Breast-Fusion- User manual
 
-This code uses mirroring, one-dimensional extrusion and the level-set method to create modified bilateral breast models from a single breast model. One-dimensional extrusion method mimic of supine postion breat models, because gravity makes breast traight down. The bilateral breast models and whole body human models are seemlessley fused by the mean-curvature driven level set function. The integrated models can be used for the study of Specific Absorption Rate (SAR) and thermal analysis in radio-frequency(RF) exposure. The following methology have potentials to be applied on any patient-based whole-body models and breast models.
+This code uses mirroring, 3D nearest neighbor interpolation, one-dimensional extrusion and the level-set method to create modified bilateral breast models from a single breast model. One-dimensional extrusion method mimic of supine postion breat models, because gravity makes breast traight down. The bilateral breast models and whole body human models are seemlessley fused by the mean-curvature driven level set function. The integrated models can be used for the study of Specific Absorption Rate (SAR) and thermal analysis in radio-frequency(RF) exposure. The following methology have potentials to be applied on any patient-based whole-body models and breast models.
 
 ### Example models:
 #### Breast models:
@@ -12,7 +12,7 @@ This code uses mirroring, one-dimensional extrusion and the level-set method to 
 - Ella female model can be purchased from https://www.itis.ethz.ch/virtual-population/virtual-population/overview/
 
 ## 1. Software Set-up.
-Download the package and upacked to desired folder.Add-to-Path all functions in folders "Morph functions" and "Kernel".
+Download the package and upacked to desired folder. Add-to-Path all functions in folders "Morph functions" and "Kernel".
 
 ## 2. Pre-locate breast position.
 
@@ -59,4 +59,4 @@ Before Level_set             |  After Level_set
 
 
 ## 5. Export data.
-Modified bilateral breast models in .vox format are generatedm, and assocaited .mmf files are also generated. Users can also generate .raw fromate files. (Note: the .vox format models incorporated with .mmf files can be imported into Xfdtd (Remcom, State College, PA USA). In addition, these models can also be saved in .raw files and be imported into Sim4Life (ZMT, Switzerland). The 'Additional' folder contains MATLAB functions to facilitate conversions between .raw files and .vox files)
+Modified bilateral breast models in .vox format are generated, and associated .mmf files are also generated. Users can also generate .raw fromate files. (Note: the .vox format models incorporated with .mmf files can be imported into Xfdtd (Remcom, State College, PA USA). In addition, these models can also be saved in .raw files and be imported into Sim4Life (ZMT, Switzerland). The 'Additional' folder contains MATLAB functions to facilitate conversions between .raw files and .vox files)
