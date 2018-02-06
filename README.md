@@ -43,9 +43,9 @@ Run "LevelsetL.m" on "LmBreast", and "LevelsetR.m" on "RmBreast".
 Before Level_set             |  After Level_set
 :-------------------------:|:-------------------------:
 **Before level-set (Axial)** | **After level-set (Axial)**
-<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm1LeftbreastBefore_level_set_Axial.png">  | <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm1LeftbreastBefore_levele_set_Saggital.png">
+<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm1LeftbreastBefore_level_set_Axial.png">  | <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm1LeftbreastAfter_level_set_Axial.png">
 **Before level-set (Saggital)**|**After level-set (Saggital)**
-<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm1LeftbreastAfter_level_set_Saggital.png"> | <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm1LeftbreastAfter_level_set_Axial.png">
+<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm1LeftbreastBefore_levele_set_Saggital.png"> | <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm1LeftbreastAfter_level_set_Saggital.png">
 
 
 ## 5. Export data.
