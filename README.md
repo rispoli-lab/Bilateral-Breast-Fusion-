@@ -18,7 +18,7 @@ Download the package and upacked to desired folder.Add-to-Path all functions in 
 <caption align="bottom">{{ include.description }}</caption>
 Ella model
 :-------------------------:
-<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm2_wholebody_Ella.png" alt=" include.description" width= "80%" height = "80%">
+<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm2_wholebody_Ella.png" description="My cat, Robert Downey Jr." width= "80%" height = "80%">
 :-------------------------:
 Hanako model
 :-------------------------:
