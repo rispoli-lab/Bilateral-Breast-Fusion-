@@ -15,9 +15,10 @@ This code uses mirroring, one-dimensional extrusion and the level-set method to 
 Download the package and upacked to desired folder.Add-to-Path all functions in folders "Morph functions" and "Kernel".
 
 ## 2. Pre-locate breast position.
+<caption align="bottom">{{ include.description }}</caption>
 Ella model
 :-------------------------:
-<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm2_wholebody_Ella.png" width= "80%" height = "80%">
+<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm2_wholebody_Ella.png" alt=" include.description" width= "80%" height = "80%">
 :-------------------------:
 Hanako model
 :-------------------------:
