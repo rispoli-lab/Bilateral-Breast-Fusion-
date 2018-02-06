@@ -50,8 +50,7 @@ Run "LevelsetL.m" on "LmBreast", and "LevelsetR.m" on "RmBreast".
 
 Before Level_set             |  After Level_set
 :-------------------------:|:-------------------------:
-<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/joint%20with%20nun-atural%20curvature.png" height="42" width="42"> |
-<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/joint%20with%20natural%20curvature.png" height="42" width="42"> 
+<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/joint%20with%20nun-atural%20curvature.png" height="200" width="200"> |<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/joint%20with%20natural%20curvature.png" height="200" width="200"> 
 
 
 
