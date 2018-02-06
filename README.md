@@ -16,6 +16,7 @@ Download the package and upacked to desired folder.Add-to-Path all functions in 
 
 ## 2. Pre-locate breast position.
 |<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm2_wholebody_Ella.png" width= "80%" height = "80%">|
+|:--:| 
 |*Hanako Model*|
 |<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm2_wholebody_Hanako.png" width= "80%" height = "80%">|
 |*Ella Model*|
