@@ -50,14 +50,7 @@ Run "LevelsetL.m" on "LmBreast", and "LevelsetR.m" on "RmBreast".
 
 Before Level_set             |  After Level_set
 :-------------------------:|:-------------------------:
-<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/joint%20with%20nun-atural%20curvature.png" height="200" width="200"> |<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/joint%20with%20natural%20curvature.png" height="200" width="200"> 
-
-
-
-
-Before Level_set             |  After Level_set
-:-------------------------:|:-------------------------:
-<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/joint%20with%20nun-atural%20curvature.png" height="60%" width="60%"> |<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/joint%20with%20natural%20curvature.png" height="60%" width="60%"> 
+<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/joint%20with%20nun-atural%20curvature.png" height="80%" width="80%"> |<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/joint%20with%20natural%20curvature.png" height="80%" width="80%"> 
 **Before level-set (Axial)** | **After level-set (Axial)**
 <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm1LeftbreastBefore_level_set_Axial.png">  | <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm1LeftbreastAfter_level_set_Axial.png">
 **Before level-set (Saggital)**|**After level-set (Saggital)**
