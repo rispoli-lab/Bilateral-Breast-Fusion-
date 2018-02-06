@@ -57,7 +57,7 @@ Before Level_set             |  After Level_set
 
 Before Level_set             |  After Level_set
 :-------------------------:|:-------------------------:
-<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/joint%20with%20nun-atural%20curvature.png" height="400" width="400"> |<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/joint%20with%20natural%20curvature.png" height="400" width="400"> 
+<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/joint%20with%20nun-atural%20curvature.png" height="60%" width="60%"> |<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/joint%20with%20natural%20curvature.png" height="60%" width="60%"> 
 **Before level-set (Axial)** | **After level-set (Axial)**
 <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm1LeftbreastBefore_level_set_Axial.png">  | <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm1LeftbreastAfter_level_set_Axial.png">
 **Before level-set (Saggital)**|**After level-set (Saggital)**
