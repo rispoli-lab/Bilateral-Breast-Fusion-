@@ -32,8 +32,8 @@ Before morphological filtering    |  After morphological filtering
 <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Chestdata2-2.PNG" width= "100%" height = "100%"> | <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/ClosePec2-2.PNG" width= "100%" height = "100%">
 
 Run "CreatBreastPectHanako.m" to generate modified left and right breast data "RmBreast" and "LmBreast".
-Results after execution of "CreatBreastPectHanako.m" 
-<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm1Combined_axial.png" width= "100%" height = "100%">
+Results after execution of "CreatBreastPectHanako.m":
+<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm1Combined_axial.png">
 
 ## 4. Apply level-set method to smooth joint.
 Change the saving path at the last row in  "LevelsetL.m" or  "LevelsetR.m" to save the .vox file to the desired folder path.
