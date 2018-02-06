@@ -8,7 +8,7 @@ This code uses mirroring, one-dimensional extrusion and the level-set method to 
 - DUKE U breast models can inqure from Dr.Lo at http://railabs.duhs.duke.edu/~jyl/
 
 #### Human models: 
-- Hanako female model can be purchased from http://emc.nict.go.jp/bio/data/index_e.html.
+- Hanako female model can be purchased from http://emc.nict.go.jp/bio/data/index_e.html
 - Ella female model can be purchased from https://www.itis.ethz.ch/virtual-population/virtual-population/overview/
 
 ## 1. Software Set-up.
