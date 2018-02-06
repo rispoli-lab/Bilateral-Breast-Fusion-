@@ -21,12 +21,7 @@ Download the package and upacked to desired folder.Add-to-Path all functions in 
 |*Hanako Model*|
 |:-:| 
 |<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm2_wholebody_Hanako.png" >|
- The cyan color outlined the muscle porjection of the human models, and serves as a location landmark for breast model positionning.
- Users can define rotational angles, and breast size for the breast model.
- The two circular rings represent the breast coils. 
- Best ratio of breast scalling depends on the ratio of breast model voxels size to human model voxel size.
- Origin locations of human models(white dot at the left bottom corner), and breast models cordinates (white dot in) relative to the human models. 
- The origion locations will be helpful for positioning the human models and breast models in EM simulation softeare.
+ The cyan color outlined the muscle porjection of the human models, and serves as a location landmark for breast model positionning. Users can define rotational angles, and breast size for the breast model.The two circular rings represent the breast coils.Best ratio of breast scalling depends on the ratio of breast model voxels size to human model voxel size.Origin locations of human models(white dot at the left bottom corner), and breast models cordinates (white dot in) relative to the human models.The origion locations will be helpful for positioning the human models and breast models in EM simulation softeare.
  
 ## 3. Breast extrution to pectoral muscle.
 The pectoral muscle and bone boundary are first smoothed by Morphological filtering
