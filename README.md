@@ -21,7 +21,7 @@ Download the package and upacked to desired folder.Add-to-Path all functions in 
 |<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm2_wholebody_Ella.png" >| 
 |Hanako model breast model and breast coil prelocation|
 |<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm2_wholebody_Hanako.png" >| 
-The cyan color line outlined the muscle porjection of the human models, and serves as a location landmark for breast models positionning. The two circular rings (black) represent the breast coils.The pink and right circles represent projection size of the breast model. The white semi-circle represent the hight effect of the breast model. Users can define rotational angles, and breast size for the breast model.Best ratio of breast scalling depends on the ratio of breast model voxels size to human model voxel size.Origin locations of human models(white dot at the left bottom corner), bilateral breast models cordinates (yellow dots),pectoral muscle cordinates(white dots near the breasts) relative to the human models will be the saved.The origion locations will be helpful for positioning the human models and breast models in EM simulation software.
+The cyan color line outlined the muscle porjection of the human models, and serves as a location landmark for breast models positionning. The two circular rings (black) represent the breast coils.The pink and right circles represent projection size of the breast model. The white semi-circle represent the hight effect of the right breast model. Users can define rotational angles, and breast size for the breast model.Best ratio of breast scalling depends on the ratio of breast model voxels size to human model voxel size.Origin locations of human models(white dot at the left bottom corner), bilateral breast models cordinates (yellow dots),pectoral muscle cordinates(white dots near the breasts) relative to the human models will be the saved.The origion locations will be helpful for positioning the human models and breast models in EM simulation software.
 
 
 ## 3. Breast extrution to pectoral muscle.
@@ -43,7 +43,7 @@ Run "LevelsetL.m" on "LmBreast", and "LevelsetR.m" on "RmBreast".
 Before Level_set             |  After Level_set
 :-------------------------:|:-------------------------:
 **Before level-set (Axial)** | **After level-set (Axial)**
-<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Before_level_set%20(Axial).png" width= "60%" height = "60%">  | <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/After_level_set%20(Axial).png" width= "60%" height = "60%">
+<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm1LeftbreastBefore_level_set_Axial.png" width= "60%" height = "60%">  | <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/After_level_set%20(Axial).png" width= "60%" height = "60%">
 **Before level-set (Saggital)**|**After level-set (Saggital)**
 <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/Before_level_set%20(Saggital).png" width= "60%" height = "60%"> | <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/After_level_set%20(Saggital).png" width= "60%" height = "60%">
 
