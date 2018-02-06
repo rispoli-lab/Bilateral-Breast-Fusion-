@@ -48,7 +48,8 @@ Change the saving path at the last row in  "LevelsetL.m" or  "LevelsetR.m" to sa
 Run "LevelsetL.m" on "LmBreast", and "LevelsetR.m" on "RmBreast".
 
 
-
+Before Level_set             |  After Level_set
+:-------------------------:|:-------------------------:
 <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/joint%20with%20nun-atural%20curvature.png"> |
 <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/joint%20with%20natural%20curvature.png"> 
 
@@ -57,8 +58,6 @@ Run "LevelsetL.m" on "LmBreast", and "LevelsetR.m" on "RmBreast".
 
 Before Level_set             |  After Level_set
 :-------------------------:|:-------------------------:
-<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/joint%20with%20nun-atural%20curvature.png"> |
-<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/joint%20with%20natural%20curvature.png"> 
 **Before level-set (Axial)** | **After level-set (Axial)**
 <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm1LeftbreastBefore_level_set_Axial.png">  | <img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm1LeftbreastAfter_level_set_Axial.png">
 **Before level-set (Saggital)**|**After level-set (Saggital)**
