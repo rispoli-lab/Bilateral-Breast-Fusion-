@@ -59,4 +59,4 @@ Before Level_set             |  After Level_set
 
 
 ## 5. Export data.
-Modified bilateral breast models in .vox format are generated, and associated .mmf files are also generated. Users can also generate .raw fromate files. (Note: the .vox format models incorporated with .mmf files can be imported into Xfdtd (Remcom, State College, PA USA). In addition, these models can also be saved in .raw files and be imported into Sim4Life (ZMT, Switzerland). The 'Additional' folder contains MATLAB functions to facilitate conversions between .raw files and .vox files)
+Modified bilateral breast models in .vox format and associated .mmf files are generated using the "WriteToVOX.m" and "WriteTommf.m" functions in the "Additional" folder. Users can also generate .raw fromate files. (Note: the .vox format models incorporated with .mmf files can be imported into Xfdtd (Remcom, State College, PA USA). In addition, these models can also be saved in .raw files and be imported into Sim4Life (ZMT, Switzerland). The 'Additional" folder contains MATLAB functions to facilitate conversions between .raw files and .vox files)
