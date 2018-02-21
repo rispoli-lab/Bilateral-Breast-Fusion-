@@ -45,8 +45,7 @@ Run "CreatBreastPectHanako.m" to generate modified left and right breast data "B
 |<img src = "https://github.com/rispoli-lab/Bilateral-Breast-Fusion-/blob/master/Pictures/uwm1Combined_axial.png">|
 
 ## 4. Apply level-set method to smooth joint.
-Change the saving path at the last row in  "Levelset.m" or  "Levelset_Hanako.m" to save the .vox file to the desired folder path.
-Run "Levelset.m" on Ella breast-extrusion models , and "Levelset_Hanako.m" on Hanako breast-extrusion models.
+In the "Morph functions" folder, change the saving path at the last row in  "Levelset.m" or  "Levelset_Hanako.m" to save the .vox file to the desired folder path. Run "Levelset.m" on Ella breast-extrusion models , and "Levelset_Hanako.m" on Hanako breast-extrusion models.
 
 
 Before Level_set             |  After Level_set
