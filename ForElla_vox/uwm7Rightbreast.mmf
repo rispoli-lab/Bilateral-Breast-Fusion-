@@ -1,0 +1,16 @@
+<!DOCTYPE TissueMeshData SYSTEM "TissueMeshData.dtd">
+<TissueMeshData FileName="uwm7Rightbreast.vox" DataType="Voxel" Name= "uwm7Rightbreast" Format="0" >
+	<MeshData XCount="337" YCount="351" ZCount="464" >
+		<Resolution X="0.5" Y="0.5" Z="0.5" Units="mm" />
+	</MeshData>
+	<TissueData Count="9" >
+		<Tissue Name="Skin" Value="86" Visible="Yes"/>
+		<Tissue Name="FGT(100)" Value="85" Visible="Yes"/>
+		<Tissue Name="FGT(75)" Value="84" Visible="Yes"/>
+		<Tissue Name="FGT(50)" Value="83" Visible="Yes"/>
+		<Tissue Name="FGT(25)" Value="82" Visible="Yes"/>
+		<Tissue Name="Breast Fat" Value="81" Visible="Yes"/>
+		<Tissue Name="Subcut. Fat" Value="100" Visible="Yes"/>
+		<Tissue Name="Ambient Air" Value="0" Visible="Yes"/>
+		</TissueData>
+</TissueMeshData>
